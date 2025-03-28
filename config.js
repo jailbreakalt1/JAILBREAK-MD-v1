@@ -19,7 +19,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "https://github.com/jailbreakalt1/JAILBREAK-MD-v1-pair.git",
+SESSION_ID: process.env.SESSION_ID || "JAILBREAK-MDA8xCVZII#uHQKsx1WfoTgeUApKr0BlTDn0LdHfE1cqsUD9E3gPCg",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "private",
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
